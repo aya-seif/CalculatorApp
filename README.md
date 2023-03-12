@@ -20,3 +20,10 @@ Alternatively, you can build the app from source by cloning this repository and 
 
 Using the App
 To use the app, simply enter a number in decimal, octal, or binary format, and select the desired output format. The app will then convert the number and display the result.
+
+<img src="Screenshot 2023-03-12 050825.png"/>
+<img src="Screenshot 2023-03-12 181031.png"/>
+<img src="Screenshot 2023-03-12 181056.png"/>
+<img src="Screenshot 2023-03-12 181132.png"/>
+<img src="Screenshot 2023-03-12 181151.png"/>
+<img src="Screenshot 2023-03-12 181224.png"/>
